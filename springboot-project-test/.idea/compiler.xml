@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-service" />
+        <module name="springboot-project-h2database" />
+        <module name="springboot-demo-h2database" />
+        <module name="springboot-demo-helloworld" />
+        <module name="user-service" />
+        <module name="order-service" />
+        <module name="librarydemo" />
+        <module name="librarydemo-usedao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-demo-h2database" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="librarydemo" options="-parameters" />
+      <module name="librarydemo-usedao" options="-parameters" />
+      <module name="springboot-demo-h2database" options="-parameters" />
+      <module name="springboot-demo-helloworld" options="-parameters" />
+      <module name="springboot-project-h2database" options="-parameters" />
+    </option>
+  </component>
+</project>

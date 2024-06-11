@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/librarydemo-usedao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/librarydemo-usedao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/librarydemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/librarydemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/common-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-practice-01/user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-demo-h2database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-demo-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-demo-helloworld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-h2database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-h2database/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
