@@ -34,12 +34,12 @@ data:
         max-wait: -1ms
     connect-timeout: 30000ms
 
-logging:
-  file:
-    name: D:\Code\JavaLearn\springboot-project-test\librarydemo\src\main\resources\logs\library.log
-  pattern:
-    file: "%d{yyyy-MM-dd HH:mm:ss} - %p - %m%n"
-  level:
-    web: error
+#logging:
+#  file:
+#    name: D:\Code\JavaLearn\springboot-project-test\librarydemo\src\main\resources\logs\library.log
+#  pattern:
+#    file: "%d{yyyy-MM-dd HH:mm:ss} - %p - %m%n"
+#  level:
+#    web: error
 
 
